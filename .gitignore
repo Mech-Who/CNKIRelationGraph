@@ -1,0 +1,6 @@
+# folder
+__pycache__/
+logs/
+
+# file
+api_test.ipynb
